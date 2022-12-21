@@ -1,0 +1,19 @@
+{
+  "name": "curso-practico-api-rest",
+  "version": "1.0.0",
+  "description": "Curso practico api-rest con el tutor Juan David Castro",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soadfreyle/curso-practico-api-rest.git"
+  },
+  "author": "soad freyle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soadfreyle/curso-practico-api-rest/issues"
+  },
+  "homepage": "https://github.com/soadfreyle/curso-practico-api-rest#readme"
+}
