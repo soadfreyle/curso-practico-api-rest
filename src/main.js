@@ -122,7 +122,7 @@ async function getMovieById(id) {
     ),
     url(${movieImgUrl})
   `;
-   
+    
     movieDetailTitle.textContent = movie.title;
     movieDetailDescription.textContent = movie.overview;
     movieDetailScore.textContent = movie.vote_average;
